@@ -19,10 +19,12 @@
     padding: 50px;
     margin: 20px; }
   .part2 { grid-area: 1 / 2 / 2 / 3;  width: 25vw; height: 80vh;
+    background-color: #dbdbdb;
     border-radius: 25px;
     padding: 100px;
     margin: 20px; } 
   .part3 { grid-area: 2 / 2 / 3 / 3; width: 420px;
+    background-color: #dbdbdb;
     border-radius: 25px;
       padding: 100px;
       margin: 20px;}
